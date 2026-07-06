@@ -99,15 +99,18 @@ Portfolio Backtesting
 
 ## 🛠️ Tech Stack
 
-* Python
-* PyTorch
-* Hugging Face Transformers
-* PEFT (LoRA / QLoRA)
-* Pandas
-* NumPy
-* Matplotlib
-* yFinance
-* Streamlit
+- Python
+- PyTorch
+- Hugging Face Transformers
+- Kronos
+- PEFT (LoRA / QLoRA)
+- Pandas
+- NumPy
+- Scikit-learn
+- yFinance
+- Matplotlib
+- Streamlit
+- Git & GitHub
 
 ---
 
