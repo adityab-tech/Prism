@@ -101,6 +101,7 @@ Portfolio Backtesting
 
 - Python
 - PyTorch
+- Juypter Notebook/Colab
 - Hugging Face Transformers
 - Kronos
 - PEFT (LoRA / QLoRA)
